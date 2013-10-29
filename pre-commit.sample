@@ -2,12 +2,12 @@
 data=(`./wp-db.php`)
 
 #########################################
-#										#
-#	Delete the .sample and put this		#
-#	file in .git/hooks/					#
-#   Make sure this file is executable	#
-#	--> chmod +x .git/hooks/pre-commit	#
-#										#
+#										                    #
+#	Delete the .sample and put this		    #
+#	file in .git/hooks/					          #
+#   Make sure this file is executable	  #
+#	--> chmod +x .git/hooks/pre-commit	  #
+#										                    #
 #########################################
 
 # echo ${data[0]} //DB_NAME
