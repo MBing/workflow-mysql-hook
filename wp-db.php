@@ -3,11 +3,11 @@
 <?php 
 
 #################################################################
-#								#
-# It is not necessary to create constants of course		#
+#																#
+# It is not necessary to create constants of course				#
 # You may as well put these variables directly into the array	#
-# This was only for clarity reasons				#
-#								#
+# This was only for clarity reasons								#
+#																#
 #################################################################
 
 define("DB_NAME", "YOUR_DB_NAME_HERE");
